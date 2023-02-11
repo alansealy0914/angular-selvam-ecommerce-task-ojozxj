@@ -34,7 +34,7 @@ export class ProductsModel{
     },
     {
       p_id : '5',
-      product_name : 'Ashirvaad Atta',
+      product_name : 'Shantee PopCorn Balls',
       product_weight : '1Kg',
       product_price : '175',
       product_image : 'https://rukminim1.flixcart.com/image/832/832/j65cnm80/flour/z/s/r/1-superior-mp-atta-whole-wheat-flour-aashirvaad-original-imaewzbkfqhy4dhq.jpeg?q=70'
