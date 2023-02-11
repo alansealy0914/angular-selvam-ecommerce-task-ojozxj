@@ -41,9 +41,6 @@ import { CartService } from '../services/cart.service';
       <em>{{cart.cartItemsList.length}}</em></span>
 		</div>
 	</div>
-
-         
-
        
   `,
 
